@@ -7285,3 +7285,347 @@ An asset already exists at the import location: /Game/Assets/CrystalShrine
 [2022.09.08-01.26.34:821][896]LogSavePackage: Moving '../../../../RealmRumble/RealmRumble/Saved/CrystalShrineB951A689415C67BADD0981AD4F84343A.tmp' to '../../../../RealmRumble/RealmRumble/Content/Assets/CrystalShrine.uasset'
 [2022.09.08-01.26.34:834][896]AssetCheck: New page: Asset Save: CrystalShrine
 [2022.09.08-01.26.34:834][896]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CrystalShrine.CrystalShrine
+[2022.09.08-01.28.15:947][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.09.08-01.28.15:965][508]LogSavePackage: Moving output files for package: /Game/ParkourRace/Maps/Gameplay_Map1_Level
+[2022.09.08-01.28.15:965][508]LogSavePackage: Moving '../../../../RealmRumble/RealmRumble/Saved/Gameplay_Map1_Level7021D8AA46434875DC2E38900A2EB573.tmp' to '../../../../RealmRumble/RealmRumble/Content/ParkourRace/Maps/Gameplay_Map1_Level.umap'
+[2022.09.08-01.28.15:976][508]LogFileHelpers: No new changes to save!
+[2022.09.08-01.28.15:987][508]AssetCheck: New page: Asset Save: Gameplay_Map1_Level
+[2022.09.08-01.28.15:987][508]LogContentValidation: Display: Validating World /Game/ParkourRace/Maps/Gameplay_Map1_Level.Gameplay_Map1_Level
+[2022.09.08-02.15.33:303][426]LogDerivedDataCache: C:/Users/Matt Snyder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.415 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.08-03.15.33:468][144]LogDerivedDataCache: C:/Users/Matt Snyder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.377 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.08-04.15.33:730][865]LogDerivedDataCache: C:/Users/Matt Snyder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.598 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.08-05.15.33:548][580]LogDerivedDataCache: C:/Users/Matt Snyder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.360 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.08-06.15.33:478][295]LogDerivedDataCache: C:/Users/Matt Snyder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.421 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.08-07.15.33:516][  9]LogDerivedDataCache: C:/Users/Matt Snyder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.368 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.08-08.15.33:325][720]LogDerivedDataCache: C:/Users/Matt Snyder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.391 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.08-09.15.33:316][434]LogDerivedDataCache: C:/Users/Matt Snyder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.378 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.08-10.15.33:290][147]LogDerivedDataCache: C:/Users/Matt Snyder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.404 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.08-11.15.33:448][862]LogDerivedDataCache: C:/Users/Matt Snyder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.377 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.08-12.12.49:597][ 87]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2022.09.08-12.12.49:928][ 88]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25880
+[2022.09.08-12.12.49:928][ 88]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x8889000A: AUDCLNT_E_DEVICE_IN_USE (line: 345) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b6a09afa-10f1-4a95-9956-0ecea9e3b745} Name=Speakers (Realtek(R) Audio))
+[2022.09.08-12.13.42:813][453]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.09.08-12.13.42:820][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-12.13.42:820][453]PIE: New page: PIE session: Gameplay_Map1_Level (Sep 8, 2022, 4:13:42 AM)
+[2022.09.08-12.13.42:820][453]LogPlayLevel: Creating play world package: /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level
+[2022.09.08-12.13.42:833][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013296s)
+[2022.09.08-12.13.42:833][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ParkourRace/Maps/Gameplay_Map1_Level.Gameplay_Map1_Level to /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level.Gameplay_Map1_Level (0.013380s)
+[2022.09.08-12.13.42:834][453]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.08-12.13.42:834][453]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.08-12.13.42:834][453]LogAIModule: Creating AISystem for world Gameplay_Map1_Level
+[2022.09.08-12.13.42:834][453]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2022.09.08-12.13.42:858][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.09.08-12.13.42:859][453]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2022.09.08-12.13.42:859][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.08-12.13.42:859][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.08-12.13.42:859][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.08-12.13.42:859][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.08-12.13.42:859][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.08-12.13.42:859][453]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.08-12.13.42:859][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.08-12.13.42:859][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.08-12.13.42:860][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.08-12.13.42:860][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.08-12.13.42:860][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.08-12.13.42:894][453]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.08-12.13.42:950][453]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.09.08-12.13.42:950][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.08-12.13.42:950][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.08-12.13.42:950][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.08-12.13.42:950][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2022.09.08-12.13.42:950][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2022.09.08-12.13.42:951][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2022.09.08-12.13.42:952][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2022.09.08-12.13.42:952][453]LogInit: FAudioDevice initialized.
+[2022.09.08-12.13.42:952][453]LogAudio: Display: Audio Device (ID: 57) registered with world 'Gameplay_Map1_Level'.
+[2022.09.08-12.13.42:981][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-12.13.42:981][453]LogLoad: Game class is 'BP_GM_Gameplay_C'
+[2022.09.08-12.13.42:983][453]LogWorld: Bringing World /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level.Gameplay_Map1_Level up for play (max tick rate 0) at 2022.09.08-08.13.42
+[2022.09.08-12.13.42:984][453]LogWorld: Bringing up level for play took: 0.002303
+[2022.09.08-12.13.42:986][453]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2022.09.08-12.13.42:987][453]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-12.13.42:987][453]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-12.13.42:987][453]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-12.13.42:988][453]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.09.08-12.13.42:989][453]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-12.13.42:991][453]PIE: Server logged in
+[2022.09.08-12.13.42:994][453]PIE: Play in editor total start time 0.174 seconds.
+[2022.09.08-12.13.43:072][453]LogAudio: Warning: Detected orphaned looping sound 'SC_BirdsAmbience'.
+[2022.09.08-12.13.43:109][453]LogViewport: Scene viewport resized to 1610x904, mode Windowed.
+[2022.09.08-12.14.07:060][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-12.14.07:060][160]LogWorld: BeginTearingDown for /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level
+[2022.09.08-12.14.07:061][160]LogSlate: Window 'RealmRumble Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.09.08-12.14.07:065][160]LogWorld: UWorld::CleanupWorld for Gameplay_Map1_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.08-12.14.07:065][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.14.07:077][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-12.14.07:084][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.14.07:107][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2022.09.08-12.14.07:108][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2022.09.08-12.14.07:120][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.09.08-12.14.07:158][161]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2022.09.08-12.14.13:317][619]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ParkourRace/Widgets/MainMenu/WB_MainMenu.WB_MainMenu
+[2022.09.08-12.14.13:318][619]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.08-12.14.13:335][619]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.08-12.14.13:997][619]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.08-12.14.13:997][619]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.08-12.14.33:595][872]BlueprintLog: New page: Compile WB_MainMenu
+[2022.09.08-12.14.33:690][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.09.08-12.14.34:133][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ParkourRace/Widgets/MainMenu/WB_MainMenu" FILE="../../../../RealmRumble/RealmRumble/Content/ParkourRace/Widgets/MainMenu/WB_MainMenu.uasset" SILENT=true
+[2022.09.08-12.14.34:183][892]LogSavePackage: Moving output files for package: /Game/ParkourRace/Widgets/MainMenu/WB_MainMenu
+[2022.09.08-12.14.34:184][892]LogSavePackage: Moving '../../../../RealmRumble/RealmRumble/Saved/WB_MainMenuC928905843DA467EEC7776AD695A55DA.tmp' to '../../../../RealmRumble/RealmRumble/Content/ParkourRace/Widgets/MainMenu/WB_MainMenu.uasset'
+[2022.09.08-12.14.34:200][892]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.09.08-12.14.34:200][892]LogContentValidation: Display: Validating WidgetBlueprint /Game/ParkourRace/Widgets/MainMenu/WB_MainMenu.WB_MainMenu
+[2022.09.08-12.14.34:866][933]LogSlate: Window 'WB_MainMenu' being destroyed
+[2022.09.08-12.14.34:876][933]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.09.08-12.14.34:876][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.14.34:886][933]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.09.08-12.14.34:886][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.14.36:342][ 37]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.09.08-12.14.36:348][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-12.14.36:348][ 37]PIE: New page: PIE session: Gameplay_Map1_Level (Sep 8, 2022, 4:14:36 AM)
+[2022.09.08-12.14.36:348][ 37]LogPlayLevel: Creating play world package: /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level
+[2022.09.08-12.14.36:355][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006565s)
+[2022.09.08-12.14.36:355][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ParkourRace/Maps/Gameplay_Map1_Level.Gameplay_Map1_Level to /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level.Gameplay_Map1_Level (0.006660s)
+[2022.09.08-12.14.36:355][ 37]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.08-12.14.36:355][ 37]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.08-12.14.36:356][ 37]LogAIModule: Creating AISystem for world Gameplay_Map1_Level
+[2022.09.08-12.14.36:357][ 37]LogPlayLevel: PIE: World Init took: (0.001535s)
+[2022.09.08-12.14.36:395][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.09.08-12.14.36:406][ 37]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2022.09.08-12.14.36:407][ 37]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.08-12.14.36:407][ 37]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.08-12.14.36:407][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.08-12.14.36:407][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.08-12.14.36:407][ 37]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.08-12.14.36:407][ 37]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.08-12.14.36:407][ 37]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.08-12.14.36:407][ 37]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.08-12.14.36:407][ 37]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.08-12.14.36:407][ 37]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.08-12.14.36:407][ 37]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.08-12.14.36:409][ 37]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.08-12.14.36:461][ 37]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.09.08-12.14.36:461][ 37]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.08-12.14.36:461][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.08-12.14.36:461][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.08-12.14.36:462][ 37]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2022.09.08-12.14.36:462][ 37]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2022.09.08-12.14.36:464][ 37]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2022.09.08-12.14.36:464][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2022.09.08-12.14.36:464][ 37]LogInit: FAudioDevice initialized.
+[2022.09.08-12.14.36:464][ 37]LogAudio: Display: Audio Device (ID: 58) registered with world 'Gameplay_Map1_Level'.
+[2022.09.08-12.14.36:497][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-12.14.36:497][ 37]LogLoad: Game class is 'BP_GM_Gameplay_C'
+[2022.09.08-12.14.36:498][ 37]LogWorld: Bringing World /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level.Gameplay_Map1_Level up for play (max tick rate 0) at 2022.09.08-08.14.36
+[2022.09.08-12.14.36:499][ 37]LogWorld: Bringing up level for play took: 0.001901
+[2022.09.08-12.14.36:502][ 37]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2022.09.08-12.14.36:502][ 37]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-12.14.36:502][ 37]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-12.14.36:502][ 37]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-12.14.36:503][ 37]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.09.08-12.14.36:504][ 37]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-12.14.36:506][ 37]PIE: Server logged in
+[2022.09.08-12.14.36:508][ 37]PIE: Play in editor total start time 0.16 seconds.
+[2022.09.08-12.14.36:581][ 37]LogAudio: Warning: Detected orphaned looping sound 'SC_BirdsAmbience'.
+[2022.09.08-12.14.36:595][ 37]LogViewport: Scene viewport resized to 1610x904, mode Windowed.
+[2022.09.08-12.14.37:694][112]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.08-12.14.37:694][112]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.09.08-12.14.41:128][374]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.09.08-12.14.41:139][375]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.09.08-12.14.41:139][375]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.09.08-12.14.41:140][375]LogNet: Browse: /Game/ParkourRace/Maps/MainMenu_Level
+[2022.09.08-12.14.41:140][375]LogLoad: LoadMap: /Game/ParkourRace/Maps/MainMenu_Level
+[2022.09.08-12.14.41:140][375]LogWorld: BeginTearingDown for /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level
+[2022.09.08-12.14.41:141][375]LogWorld: UWorld::CleanupWorld for Gameplay_Map1_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.08-12.14.41:141][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.14.41:200][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.08-12.14.41:204][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.09.08-12.14.41:207][375]LogPlayLevel: Creating play world package: /Game/ParkourRace/Maps/UEDPIE_0_MainMenu_Level
+[2022.09.08-12.14.41:215][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007579s)
+[2022.09.08-12.14.41:215][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ParkourRace/Maps/MainMenu_Level.MainMenu_Level to /Game/ParkourRace/Maps/UEDPIE_0_MainMenu_Level.MainMenu_Level (0.007689s)
+[2022.09.08-12.14.41:215][375]LogAudio: Display: Audio Device (ID: 58) registered with world 'MainMenu_Level'.
+[2022.09.08-12.14.41:215][375]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.08-12.14.41:215][375]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.08-12.14.41:215][375]LogAIModule: Creating AISystem for world MainMenu_Level
+[2022.09.08-12.14.41:215][375]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2022.09.08-12.14.41:215][375]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2022.09.08-12.14.41:217][375]LogWorld: Bringing World /Game/ParkourRace/Maps/UEDPIE_0_MainMenu_Level.MainMenu_Level up for play (max tick rate 0) at 2022.09.08-08.14.41
+[2022.09.08-12.14.41:217][375]LogWorld: Bringing up level for play took: 0.001649
+[2022.09.08-12.14.41:218][375]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-12.14.41:218][375]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-12.14.41:218][375]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-12.14.41:218][375]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-12.14.41:224][375]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.09.08-12.14.41:224][375]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2022.09.08-12.14.41:224][375]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-12.14.41:224][375]LogLoad: Took 0.083896 seconds to LoadMap(/Game/ParkourRace/Maps/UEDPIE_0_MainMenu_Level)
+[2022.09.08-12.14.46:369][749]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.09.08-12.14.46:369][749]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.09.08-12.14.46:370][749]LogNet: Browse: /Game/ParkourRace/Maps/BootScreen_Level
+[2022.09.08-12.14.46:372][749]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/ParkourRace/Maps/BootScreen_Level
+[2022.09.08-12.14.46:372][749]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ParkourRace/Maps/BootScreen_Level'. Shutting down PIE.
+[2022.09.08-12.14.46:372][749]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ParkourRace/Maps/BootScreen_Level'. Shutting down PIE.
+[2022.09.08-12.14.46:372][749]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/ParkourRace/Maps/BootScreen_Level
+[2022.09.08-12.14.46:372][749]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ParkourRace/Maps/BootScreen_Level'. Shutting down PIE.
+[2022.09.08-12.14.46:372][749]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ParkourRace/Maps/BootScreen_Level'. Shutting down PIE.
+[2022.09.08-12.14.46:411][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-12.14.46:411][749]LogWorld: BeginTearingDown for /Game/ParkourRace/Maps/UEDPIE_0_MainMenu_Level
+[2022.09.08-12.14.46:411][749]LogSlate: Window 'RealmRumble Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.09.08-12.14.46:415][749]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.08-12.14.46:415][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.14.46:425][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-12.14.46:432][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.14.46:456][749]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.08-12.14.46:456][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2022.09.08-12.14.46:458][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2022.09.08-12.14.46:477][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.09.08-12.14.46:616][750]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2022.09.08-12.14.55:983][405]LogSlate: Window 'Message Log' being destroyed
+[2022.09.08-12.14.55:987][405]LogSlate: Window 'Message Log' being destroyed
+[2022.09.08-12.14.57:824][535]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ParkourRace/Widgets/MainMenu/WB_MainMenu.WB_MainMenu
+[2022.09.08-12.14.57:824][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.08-12.14.57:843][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.08-12.14.58:273][535]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.08-12.14.58:273][535]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.08-12.15.13:774][577]BlueprintLog: New page: Compile WB_MainMenu
+[2022.09.08-12.15.13:858][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.09.08-12.15.14:416][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ParkourRace/Widgets/MainMenu/WB_MainMenu" FILE="../../../../RealmRumble/RealmRumble/Content/ParkourRace/Widgets/MainMenu/WB_MainMenu.uasset" SILENT=true
+[2022.09.08-12.15.14:467][603]LogSavePackage: Moving output files for package: /Game/ParkourRace/Widgets/MainMenu/WB_MainMenu
+[2022.09.08-12.15.14:467][603]LogSavePackage: Moving '../../../../RealmRumble/RealmRumble/Saved/WB_MainMenu30552E1B4880AD1F21B9DC98A5E7E71D.tmp' to '../../../../RealmRumble/RealmRumble/Content/ParkourRace/Widgets/MainMenu/WB_MainMenu.uasset'
+[2022.09.08-12.15.14:486][603]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.09.08-12.15.14:486][603]LogContentValidation: Display: Validating WidgetBlueprint /Game/ParkourRace/Widgets/MainMenu/WB_MainMenu.WB_MainMenu
+[2022.09.08-12.15.15:101][641]LogSlate: Window 'WB_MainMenu' being destroyed
+[2022.09.08-12.15.15:112][641]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.09.08-12.15.15:112][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.15.15:123][641]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.09.08-12.15.15:123][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.15.16:292][724]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.09.08-12.15.16:299][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-12.15.16:299][724]PIE: New page: PIE session: Gameplay_Map1_Level (Sep 8, 2022, 4:15:16 AM)
+[2022.09.08-12.15.16:299][724]LogPlayLevel: Creating play world package: /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level
+[2022.09.08-12.15.16:305][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006656s)
+[2022.09.08-12.15.16:306][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ParkourRace/Maps/Gameplay_Map1_Level.Gameplay_Map1_Level to /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level.Gameplay_Map1_Level (0.006748s)
+[2022.09.08-12.15.16:306][724]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.08-12.15.16:306][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.08-12.15.16:306][724]LogAIModule: Creating AISystem for world Gameplay_Map1_Level
+[2022.09.08-12.15.16:306][724]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2022.09.08-12.15.16:339][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.09.08-12.15.16:352][724]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2022.09.08-12.15.16:352][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.08-12.15.16:352][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.08-12.15.16:352][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.08-12.15.16:352][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.08-12.15.16:352][724]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.08-12.15.16:352][724]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.08-12.15.16:352][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.08-12.15.16:352][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.08-12.15.16:353][724]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.08-12.15.16:353][724]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.08-12.15.16:353][724]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.08-12.15.16:359][724]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.08-12.15.16:407][724]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.09.08-12.15.16:408][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.08-12.15.16:408][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.08-12.15.16:408][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.08-12.15.16:408][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2022.09.08-12.15.16:408][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2022.09.08-12.15.16:410][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2022.09.08-12.15.16:410][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2022.09.08-12.15.16:410][724]LogInit: FAudioDevice initialized.
+[2022.09.08-12.15.16:410][724]LogAudio: Display: Audio Device (ID: 59) registered with world 'Gameplay_Map1_Level'.
+[2022.09.08-12.15.16:462][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-12.15.16:463][724]LogLoad: Game class is 'BP_GM_Gameplay_C'
+[2022.09.08-12.15.16:464][724]LogWorld: Bringing World /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level.Gameplay_Map1_Level up for play (max tick rate 0) at 2022.09.08-08.15.16
+[2022.09.08-12.15.16:465][724]LogWorld: Bringing up level for play took: 0.001753
+[2022.09.08-12.15.16:467][724]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2022.09.08-12.15.16:467][724]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-12.15.16:467][724]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-12.15.16:467][724]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-12.15.16:468][724]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.09.08-12.15.16:468][724]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-12.15.16:471][724]PIE: Server logged in
+[2022.09.08-12.15.16:472][724]PIE: Play in editor total start time 0.174 seconds.
+[2022.09.08-12.15.16:542][724]LogAudio: Warning: Detected orphaned looping sound 'SC_BirdsAmbience'.
+[2022.09.08-12.15.16:556][724]LogViewport: Scene viewport resized to 1610x904, mode Windowed.
+[2022.09.08-12.15.17:433][781]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.08-12.15.17:433][781]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.09.08-12.15.20:585][ 16]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.09.08-12.15.20:596][ 17]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.09.08-12.15.20:596][ 17]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.09.08-12.15.20:597][ 17]LogNet: Browse: /Game/ParkourRace/Maps/MainMenu_Level
+[2022.09.08-12.15.20:597][ 17]LogLoad: LoadMap: /Game/ParkourRace/Maps/MainMenu_Level
+[2022.09.08-12.15.20:597][ 17]LogWorld: BeginTearingDown for /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level
+[2022.09.08-12.15.20:598][ 17]LogWorld: UWorld::CleanupWorld for Gameplay_Map1_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.08-12.15.20:598][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.15.20:657][ 17]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.08-12.15.20:661][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.09.08-12.15.20:663][ 17]LogPlayLevel: Creating play world package: /Game/ParkourRace/Maps/UEDPIE_0_MainMenu_Level
+[2022.09.08-12.15.20:666][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002752s)
+[2022.09.08-12.15.20:666][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ParkourRace/Maps/MainMenu_Level.MainMenu_Level to /Game/ParkourRace/Maps/UEDPIE_0_MainMenu_Level.MainMenu_Level (0.002839s)
+[2022.09.08-12.15.20:666][ 17]LogAudio: Display: Audio Device (ID: 59) registered with world 'MainMenu_Level'.
+[2022.09.08-12.15.20:666][ 17]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.08-12.15.20:666][ 17]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.08-12.15.20:667][ 17]LogAIModule: Creating AISystem for world MainMenu_Level
+[2022.09.08-12.15.20:667][ 17]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2022.09.08-12.15.20:667][ 17]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2022.09.08-12.15.20:669][ 17]LogWorld: Bringing World /Game/ParkourRace/Maps/UEDPIE_0_MainMenu_Level.MainMenu_Level up for play (max tick rate 0) at 2022.09.08-08.15.20
+[2022.09.08-12.15.20:669][ 17]LogWorld: Bringing up level for play took: 0.001670
+[2022.09.08-12.15.20:669][ 17]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.08-12.15.20:670][ 17]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-12.15.20:670][ 17]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-12.15.20:670][ 17]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-12.15.20:676][ 17]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2022.09.08-12.15.20:676][ 17]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2022.09.08-12.15.20:676][ 17]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-12.15.20:676][ 17]LogLoad: Took 0.077607 seconds to LoadMap(/Game/ParkourRace/Maps/UEDPIE_0_MainMenu_Level)
+[2022.09.08-12.15.24:920][323]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.09.08-12.15.24:920][323]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.09.08-12.15.24:921][323]LogNet: Browse: /Game/ParkourRace/Maps/Gameplay_Map1_Level?listen
+[2022.09.08-12.15.24:921][323]LogLoad: LoadMap: /Game/ParkourRace/Maps/Gameplay_Map1_Level?listen
+[2022.09.08-12.15.24:921][323]LogWorld: BeginTearingDown for /Game/ParkourRace/Maps/UEDPIE_0_MainMenu_Level
+[2022.09.08-12.15.24:922][323]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.08-12.15.24:922][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.15.24:968][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.08-12.15.24:971][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.09.08-12.15.24:973][323]LogPlayLevel: Creating play world package: /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level
+[2022.09.08-12.15.24:979][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005404s)
+[2022.09.08-12.15.24:979][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ParkourRace/Maps/Gameplay_Map1_Level.Gameplay_Map1_Level to /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level.Gameplay_Map1_Level (0.005499s)
+[2022.09.08-12.15.24:979][323]LogAudio: Display: Audio Device (ID: 59) registered with world 'Gameplay_Map1_Level'.
+[2022.09.08-12.15.24:979][323]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.08-12.15.24:979][323]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.08-12.15.24:979][323]LogAIModule: Creating AISystem for world Gameplay_Map1_Level
+[2022.09.08-12.15.24:979][323]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2022.09.08-12.15.24:979][323]LogLoad: Game class is 'BP_GM_Gameplay_C'
+[2022.09.08-12.15.24:980][323]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.09.08-12.15.24:980][323]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.09.08-12.15.24:980][323]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.09.08-12.15.24:980][323]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2022.09.08-12.15.24:980][323]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.09.08-12.15.24:980][323]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 7777
+[2022.09.08-12.15.24:981][323]LogWorld: Bringing World /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level.Gameplay_Map1_Level up for play (max tick rate 0) at 2022.09.08-08.15.24
+[2022.09.08-12.15.24:981][323]LogWorld: Bringing up level for play took: 0.001296
+[2022.09.08-12.15.24:982][323]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-12.15.24:982][323]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-12.15.24:982][323]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-12.15.24:982][323]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.08-12.15.24:982][323]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.09.08-12.15.24:983][323]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-12.15.24:983][323]LogLoad: Took 0.062201 seconds to LoadMap(/Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level)
+[2022.09.08-12.15.24:984][323]LogAudio: Warning: Detected orphaned looping sound 'SC_BirdsAmbience'.
+[2022.09.08-12.15.33:577][939]LogDerivedDataCache: C:/Users/Matt Snyder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.710 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.08-12.17.30:917][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-12.17.30:917][407]LogWorld: BeginTearingDown for /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level
+[2022.09.08-12.17.30:918][407]LogSlate: Window 'RealmRumble Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.09.08-12.17.30:921][407]LogWorld: UWorld::CleanupWorld for Gameplay_Map1_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.08-12.17.30:921][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.17.30:932][407]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2022.09.08-12.17.30:932][407]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2022.09.08-12.17.30:932][407]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2022.09.08-12.17.30:933][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-12.17.30:941][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-12.17.30:965][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2022.09.08-12.17.30:967][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2022.09.08-12.17.30:980][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.09.08-12.17.31:010][408]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2022.09.08-12.17.39:391][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.09.08-12.17.40:860][982]LogSlate: Window 'Save Content' being destroyed
