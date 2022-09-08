@@ -7176,3 +7176,112 @@ An asset already exists at the import location: /Game/Assets/CrystalShrine
 [2022.09.08-01.19.18:092][859]LogContentValidation: Display: Validating World /Game/ParkourRace/Maps/Gameplay_Map1_Level.Gameplay_Map1_Level
 [2022.09.08-01.19.22:180][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2022.09.08-01.19.23:432][161]LogSlate: Window 'Save Content' being destroyed
+[2022.09.08-01.23.36:376][386]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [SM_CrystalStand] - forcing default material instead.
+[2022.09.08-01.23.40:213][458]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Matt Snyder/Pictures/RealmRumble/TestFix.fbx)
+[2022.09.08-01.23.40:219][458]LogFbx: Loading FBX Scene from C:/Users/Matt Snyder/Pictures/RealmRumble/TestFix.fbx
+[2022.09.08-01.23.40:226][458]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.08-01.23.41:397][458]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.08-01.23.41:410][458]LogFbx: Display: Triangulating static mesh ShrineTestUV
+[2022.09.08-01.23.41:474][458]LogStaticMesh: Display: Building static mesh TestFix...
+[2022.09.08-01.23.41:538][458]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/TestFix.TestFix
+[2022.09.08-01.23.42:616][458]LogMeshUtilities: Finished distance field build in 1.1s - 126x77x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 49% occupied, 1868 triangles, TestFix
+[2022.09.08-01.23.43:381][496]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [SM_CrystalStand] - forcing default material instead.
+[2022.09.08-01.23.43:790][522]LogMeshUtilities: Finished distance field build in 1.2s - 126x77x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 49% occupied, 1868 triangles, TestFix
+[2022.09.08-01.23.48:857][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.09.08-01.23.50:135][886]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.08-01.23.50:160][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.09.08-01.23.50:180][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.09.08-01.23.50:201][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.09.08-01.23.50:485][905]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [SM_CrystalStand] - forcing default material instead.
+[2022.09.08-01.23.50:530][906]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [SM_CrystalStand] - forcing default material instead.
+[2022.09.08-01.23.50:539][907]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [SM_CrystalStand] - forcing default material instead.
+[2022.09.08-01.23.50:547][908]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [SM_CrystalStand] - forcing default material instead.
+[2022.09.08-01.24.26:910][382]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.08-01.24.26:910][382]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.08-01.24.27:487][441]LogEditorFactories: Performing atomic reimport of [C:/Users/Matt Snyder/Pictures/RealmRumble/CrystalShrine.fbx]
+[2022.09.08-01.24.27:493][441]LogFbx: Loading FBX Scene from C:/Users/Matt Snyder/Pictures/RealmRumble/CrystalShrine.fbx
+[2022.09.08-01.24.27:499][441]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.08-01.24.27:546][441]LogFbx: Display: Triangulating static mesh ShrineTestUV
+[2022.09.08-01.24.27:614][441]LogStaticMesh: Display: Building static mesh CrystalShrine...
+[2022.09.08-01.24.27:709][441]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/CrystalShrine.CrystalShrine
+[2022.09.08-01.24.27:755][441]LogEditorFactories: -- imported successfully
+[2022.09.08-01.24.28:794][441]LogMeshUtilities: Finished distance field build in 1.1s - 126x77x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 49% occupied, 1868 triangles, CrystalShrine
+[2022.09.08-01.24.29:955][510]LogMeshUtilities: Finished distance field build in 1.1s - 126x77x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 49% occupied, 1868 triangles, CrystalShrine
+[2022.09.08-01.25.22:459][835]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.08-01.25.22:459][835]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.08-01.25.23:237][920]LogEditorFactories: Performing atomic reimport of [C:/Users/Matt Snyder/Pictures/RealmRumble/CrystalShrine.fbx]
+[2022.09.08-01.25.23:243][920]LogFbx: Loading FBX Scene from C:/Users/Matt Snyder/Pictures/RealmRumble/CrystalShrine.fbx
+[2022.09.08-01.25.23:249][920]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.08-01.25.23:311][920]LogFbx: Display: Triangulating static mesh ShrineTestUV
+[2022.09.08-01.25.23:380][920]LogStaticMesh: Display: Building static mesh CrystalShrine...
+[2022.09.08-01.25.23:488][920]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/CrystalShrine.CrystalShrine
+[2022.09.08-01.25.23:532][920]LogEditorFactories: -- imported successfully
+[2022.09.08-01.25.24:570][920]LogMeshUtilities: Finished distance field build in 1.1s - 126x77x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 49% occupied, 1868 triangles, CrystalShrine
+[2022.09.08-01.25.25:725][979]LogMeshUtilities: Finished distance field build in 1.1s - 126x77x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 49% occupied, 1868 triangles, CrystalShrine
+[2022.09.08-01.25.30:835][356]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.09.08-01.25.30:842][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.08-01.25.30:842][356]PIE: New page: PIE session: Gameplay_Map1_Level (Sep 7, 2022, 5:25:30 PM)
+[2022.09.08-01.25.30:842][356]LogPlayLevel: Creating play world package: /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level
+[2022.09.08-01.25.30:847][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005356s)
+[2022.09.08-01.25.30:847][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ParkourRace/Maps/Gameplay_Map1_Level.Gameplay_Map1_Level to /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level.Gameplay_Map1_Level (0.005433s)
+[2022.09.08-01.25.30:847][356]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.08-01.25.30:847][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.08-01.25.30:847][356]LogAIModule: Creating AISystem for world Gameplay_Map1_Level
+[2022.09.08-01.25.30:847][356]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2022.09.08-01.25.30:868][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.09.08-01.25.30:870][356]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2022.09.08-01.25.30:870][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.08-01.25.30:870][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.08-01.25.30:870][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.08-01.25.30:870][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.08-01.25.30:870][356]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.08-01.25.30:870][356]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.08-01.25.30:870][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.08-01.25.30:870][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.08-01.25.30:871][356]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.08-01.25.30:871][356]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.08-01.25.30:871][356]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.08-01.25.30:873][356]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.08-01.25.30:890][356]LogAudioMixer: Display: Using Audio Hardware Device Headphones (MPOW 059 PRO Stereo)
+[2022.09.08-01.25.30:890][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.08-01.25.30:890][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.08-01.25.30:890][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.08-01.25.30:891][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2022.09.08-01.25.30:891][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2022.09.08-01.25.30:893][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2022.09.08-01.25.30:893][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2022.09.08-01.25.30:893][356]LogInit: FAudioDevice initialized.
+[2022.09.08-01.25.30:893][356]LogAudio: Display: Audio Device (ID: 56) registered with world 'Gameplay_Map1_Level'.
+[2022.09.08-01.25.30:945][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-01.25.30:945][356]LogLoad: Game class is 'BP_GM_Gameplay_C'
+[2022.09.08-01.25.30:947][356]LogWorld: Bringing World /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level.Gameplay_Map1_Level up for play (max tick rate 0) at 2022.09.07-21.25.30
+[2022.09.08-01.25.30:947][356]LogWorld: Bringing up level for play took: 0.001442
+[2022.09.08-01.25.30:949][356]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2022.09.08-01.25.30:949][356]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-01.25.30:949][356]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.08-01.25.30:949][356]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-01.25.30:950][356]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.09.08-01.25.30:951][356]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.08-01.25.30:953][356]PIE: Server logged in
+[2022.09.08-01.25.30:954][356]PIE: Play in editor total start time 0.113 seconds.
+[2022.09.08-01.25.31:016][356]LogAudio: Warning: Detected orphaned looping sound 'SC_BirdsAmbience'.
+[2022.09.08-01.25.31:028][356]LogViewport: Scene viewport resized to 1610x904, mode Windowed.
+[2022.09.08-01.26.32:013][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.08-01.26.32:013][812]LogWorld: BeginTearingDown for /Game/ParkourRace/Maps/UEDPIE_0_Gameplay_Map1_Level
+[2022.09.08-01.26.32:014][812]LogSlate: Window 'RealmRumble Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.09.08-01.26.32:018][812]LogWorld: UWorld::CleanupWorld for Gameplay_Map1_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.08-01.26.32:018][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-01.26.32:029][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.08-01.26.32:037][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.08-01.26.32:057][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.08-01.26.32:058][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2022.09.08-01.26.32:059][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2022.09.08-01.26.32:065][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.09.08-01.26.32:093][813]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2022.09.08-01.26.33:215][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.09.08-01.26.34:735][896]LogSlate: Window 'Save Content' being destroyed
+[2022.09.08-01.26.34:809][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/CrystalShrine" FILE="../../../../RealmRumble/RealmRumble/Content/Assets/CrystalShrine.uasset" SILENT=true
+[2022.09.08-01.26.34:821][896]LogSavePackage: Moving output files for package: /Game/Assets/CrystalShrine
+[2022.09.08-01.26.34:821][896]LogSavePackage: Moving '../../../../RealmRumble/RealmRumble/Saved/CrystalShrineB951A689415C67BADD0981AD4F84343A.tmp' to '../../../../RealmRumble/RealmRumble/Content/Assets/CrystalShrine.uasset'
+[2022.09.08-01.26.34:834][896]AssetCheck: New page: Asset Save: CrystalShrine
+[2022.09.08-01.26.34:834][896]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CrystalShrine.CrystalShrine
